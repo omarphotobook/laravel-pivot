@@ -1,5 +1,5 @@
 {
-    "name": "fbww/laravel-pivot",
+    "name": "pbww/laravel-pivot",
     "description": "This package introduces new eloquent events for sync(), attach(), detach() or updateExistingPivot() methods on BelongsToMany relation.",
     "keywords": [
         "laravel BelongsToMany events",
